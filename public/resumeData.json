@@ -113,6 +113,12 @@
         "url": "https://clone-6e7c0.web.app"
       },
       {
+        "title": "Reddit Build",
+        "category": "Built modern Reddit Clone with NEXTJS and GraphQL",
+        "image": "reddit.png",
+        "url": "https://reddit-build-sigma.vercel.app/"
+      },
+      {
         "title": "Payrail",
         "category": "Virtual payment platform built with ReactJS",
         "image": "payrail.png",
